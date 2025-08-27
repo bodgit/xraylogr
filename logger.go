@@ -14,7 +14,7 @@ package xraylogr
 import (
 	"fmt"
 
-	"github.com/aws/aws-xray-sdk-go/xraylog"
+	"github.com/aws/aws-xray-sdk-go/v2/xraylog"
 	"github.com/go-logr/logr"
 )
 

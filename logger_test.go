@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aws/aws-xray-sdk-go/xraylog"
+	"github.com/aws/aws-xray-sdk-go/v2/xraylog"
 	"github.com/bodgit/xraylogr"
 	"github.com/tonglil/buflogr"
 )
